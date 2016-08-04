@@ -16,7 +16,7 @@ the addEventListener and removeEventListener methods on all EventTargets with
 replacements that support an options object if necessary:
 
 ```js
-require('add-event-listener-with-options/js/polyfill');
+require('event-listener-with-options/js/polyfill');
 ```
 
 ## Types
